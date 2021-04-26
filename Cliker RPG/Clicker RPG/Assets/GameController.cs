@@ -15,6 +15,7 @@ public class GameController : MonoBehaviour
     public Text healthText;
     public Text enemyText;
     public Text stageText;
+    public Text dpsText;
 
     public Image healthbar;
 
@@ -32,6 +33,7 @@ public class GameController : MonoBehaviour
         healthText.text = health + "/" + healthCap + " HP";
         enemyText.text = enemy + "/" + "10";
         stageText.text = "Stage - " + stage;
+        dpsText.text = "" + dpc;
 
         healthbar.fillAmount = (float)(health / healthCap);
     }
