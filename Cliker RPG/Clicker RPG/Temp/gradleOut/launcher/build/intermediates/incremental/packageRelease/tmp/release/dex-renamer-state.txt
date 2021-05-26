@@ -1,0 +1,4 @@
+#Tue May 25 16:38:59 CEST 2021
+base.0=C\:\\Users\\kuri_\\Desktop\\TapHero\\taphero\\taphero\\Cliker RPG\\Clicker RPG\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
